@@ -1,4 +1,4 @@
-# 💠  <span style="color:red;">Personal Profile Web Page using html,css and javacript</span>
+# 💠  <span style="color:red;">Personal Profile Web Page Using html,css and javacript</span>
 
 # ✅ Objective
 Create a single web page using HTML, CSS, and JavaScript to present a personal profile that includes:
